@@ -1,5 +1,6 @@
 body{
     background-color: rgb(32,37,161);
+    font-size: 2.8vw;
 }
 nav{
     background: linear-gradient(rgb(32, 37, 161),rgb(74, 238, 101));
@@ -10,6 +11,12 @@ nav{
 #knight{
     width: 6vw;
     padding: 3vw;
+}
+#jann{
+    width:100%;
+}
+.widify{
+    width: 100%;
 }
 #gh{
     width: 6vw;
