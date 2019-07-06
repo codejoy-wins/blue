@@ -20,5 +20,11 @@ function generator(){
         <img src="underwater.jpg" alt="" class="widify">
         `
     }
+    if(answer === 2){
+        console.log("ans is 2");
+        document.getElementById("magic").innerHTML=`
+        <img src="beach.jpeg" alt="" class="widify">
+        `
+    }
     return answer;
 }
