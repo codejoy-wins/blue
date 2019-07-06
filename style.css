@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(32,37,161);
+}
+nav{
+    background: linear-gradient(rgb(32, 37, 161),rgb(74, 238, 101));
+    border-radius: 25%;
+    opacity: .4;
+    position: fixed;
+}
+#knight{
+    width: 6vw;
+    padding: 3vw;
+}
+#gh{
+    width: 6vw;
+    padding: 3vw;
+}
+#first{
+    position: relative;
+    top: 17vw;
+}
