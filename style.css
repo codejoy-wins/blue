@@ -1,6 +1,7 @@
 body{
     background-color: rgb(32,37,161);
     font-size: 2.8vw;
+    font-family: 'Roboto', sans-serif;
 }
 nav{
     background: linear-gradient(rgb(32, 37, 161),rgb(74, 238, 101));
